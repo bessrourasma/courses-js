@@ -1,0 +1,208 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+a ,li:hover{
+    color: red;
+}
+div ,a ,li{
+    display: inline;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 0px;
+    font-size: 1.25em;
+    font-weight: bold;
+    letter-spacing: 3px;
+    text-transform: none;
+    margin-bottom: 20px;
+    border: 35px solid transparent;
+    
+
+  
+}
+
+#cc{
+    color: aliceblue;
+    font-size: 2.5em;
+    
+}
+
+h1 {
+    top: 50%;
+    text-shadow: 5px 2px rgb(12, 11, 11);
+    font-weight: 500;
+    line-height: 1.1;
+    font-size: 6em;
+    font-family: 'Bree Serif', serif;
+    color: white;
+    display: block;
+    position: relative;
+    font-weight: 500;
+    line-height: 5;
+    
+    
+}
+#bb {width: 100%;
+    height: 450px;
+    color: white;
+    background-image: url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: 0 3px 2px rgba(0, 0, 0, .5);
+    box-sizing: border-box;
+}
+
+img {
+    vertical-align: middle;
+   
+}
+textarea {
+    height: auto;
+    display: block;
+    width: 464px;
+    height: 60px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    background-color: #fff;
+
+}
+h3{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
+.course1:hover {
+    background-color: black;
+    opacity: 0.5;
+}
+.course1 {
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    display: inline-block;
+    background-image: url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png);
+    background-size: cover;
+    overflow: hidden;
+}
+.course2 {
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    display: inline-block;
+    background-image: url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png);
+    background-size: cover;
+    overflow: hidden;
+}
+.course3 {
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    display: inline-block;
+    background-image: url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png);
+    background-size: cover;
+    overflow: hidden;
+}
+.course4 {
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    display: inline-block;
+    background-image: url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png);
+    background-size: cover;
+    overflow: hidden;
+}
+.course5 {
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    display: inline-block;
+    background-image: url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png);
+    background-size: cover;
+    overflow: hidden;
+}
+.course6 {
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    display: inline-block;
+    background-image: url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png);
+    background-size: cover;
+    overflow: hidden;
+}
+.course7 {
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    display: inline-block;
+    background-image: url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png);
+    background-size: cover;
+    overflow: hidden;
+}
+.course8 {
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    display: inline-block;
+    background-image: url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png);
+    background-size: cover;
+    overflow: hidden;
+}
+.course9 {
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    display: inline-block;
+    background-image: url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png);
+    background-size: cover;
+    overflow: hidden;
+}
+.cadre{
+    display: block;
+    width: 25%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    color: #555;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    
+}
+.btn-submit{
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    padding: 6px 12px;
+    font-size: 14px;
+    border-radius: 4px;
+}
+h4 {
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px
+    font-weight: 500;
+    line-height: 1.1;
+}
+
+
+body{
+    background-image: 
+ Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+Linear-gradient(127deg, black, black 70.71%),
+
+Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+height:800px;
+}
